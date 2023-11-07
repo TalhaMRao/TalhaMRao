@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 # Hello there 👋, I'm Talha Rao
 ### Computer Engineer
-- 🔭 I’m currently working on: acquiring the Microsoft Azure AZ-900 and SC-900 certifications.
-- 🌱 I’m currently learning: Cyber Security.
-- ⚡ Fun fact: I like building computers.
-- 📫 How to reach me:
+🔭 I’m currently working on: acquiring the Microsoft Azure AZ-900 and SC-900 certifications.
+🌱 I’m currently learning: Cyber Security.
+⚡ Fun fact: I like building computers.
+📫 How to reach me:
 
 
 <a href="https://www.linkedin.com/in/talhamrao/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>

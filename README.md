@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like building computers.
 - 📫 How to reach me:
 
-\t<a href="https://www.linkedin.com/in/talhamrao/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+&nbsp<a href="https://www.linkedin.com/in/talhamrao/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>

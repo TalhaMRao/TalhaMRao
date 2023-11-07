@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: Cyber Security.
 - ⚡ Fun fact: I like building computers.
 - 📫 How to reach me:
+
+- 
 <a href="https://www.linkedin.com/in/talhamrao/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>

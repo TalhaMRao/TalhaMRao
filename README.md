@@ -93,3 +93,13 @@ Here are some ideas to get you started:
         </td>
     </tr>
 </table>
+
+
+<br />
+
+### GitHub Fun
+
+<img src="https://github-profile-trophy.vercel.app/?username=talhamrao&row=3&column=10&no-bg=false"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=talhamrao"/>
+<img src="[https://github-readme-streak-stats.herokuapp.com/?user=mdfarhanali34](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red"/>
+

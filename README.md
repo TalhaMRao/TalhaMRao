@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello there 👋, I'm Mohammad Farhan Ali
+# Hello there 👋, I'm Talha Rao

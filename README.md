@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **TalhaMRao/TalhaMRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -14,7 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello there 👋, I'm Talha Rao
+<img height="45px" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FF5D3A&size=50&vCenter=true&repeat=false&width=1000&duration=3000&lines=Talha+Rao">
+<img height="45px" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FF5D3A&size=50&vCenter=true&width=1500&duration=6000&lines=Welcome+to+my+Github!">
 
 ### Computer Engineer
 
@@ -98,8 +97,8 @@ Here are some ideas to get you started:
 <br />
 
 ### GitHub Fun
+Total profile visits:&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://profile-counter.glitch.me/talhamrao/count.svg"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=talhamrao&row=3&column=10&no-bg=false"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhamrao"/>
-<img src="https://profile-counter.glitch.me/talhamrao/count.svg"/>
 

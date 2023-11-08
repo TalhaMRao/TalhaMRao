@@ -100,5 +100,3 @@ Here are some ideas to get you started:
 Total profile visits:&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://profile-counter.glitch.me/talhamrao/count.svg"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=talhamrao&row=3&column=10&no-bg=false"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=talhamrao"/>
-

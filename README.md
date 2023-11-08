@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="45px" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FF5D3A&size=50&vCenter=true&repeat=false&width=1000&duration=3000&lines=Talha+Rao">
-<img height="45px" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FF5D3A&size=50&vCenter=true&width=1500&duration=6000&lines=Welcome+to+my+Github!">
+<img height="45px" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=58B5F2&size=50&vCenter=true&repeat=false&width=1000&duration=3000&lines=Talha+Rao">
+<img height="45px" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=58B5F2&size=50&vCenter=true&width=1500&duration=6000&lines=Welcome+to+my+Github!">
 
 ### Computer Engineer
 

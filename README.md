@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ### Computer Engineer
 
-🔭 I’m currently working on: acquiring the Microsoft Azure AZ-900 and SC-900 certifications.\
 🌱 I’m currently learning: Cyber Security.\
 ⚡ Fun fact: I like building computers.
 

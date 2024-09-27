@@ -35,8 +35,8 @@ Here are some ideas to get you started:
     <tr>
         <td>Vulnerability Mangement</td>
         <td>
-            <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjMSnd70bRAi6e5Jyr5lqleuJbNdE3AZqZA&s" width="100" height="40"/></a>
-            <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm67lJCwkpMLhR_iA3S_oXRLRTugZOdzX0lQ&s" width="100" height="40"/></a>
+            <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjMSnd70bRAi6e5Jyr5lqleuJbNdE3AZqZA&s" width="110" height="40"/></a>
+            <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm67lJCwkpMLhR_iA3S_oXRLRTugZOdzX0lQ&s" width="110" height="40"/></a>
         </td>
     </tr>
     <tr>

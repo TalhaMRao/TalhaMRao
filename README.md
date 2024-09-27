@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### Computer Engineer
 
+🏢 Security Operations Engineer @ RBC
 🌱 I’m currently learning: Cyber Security.\
 ⚡ Fun fact: I like building computers.
 

@@ -33,6 +33,13 @@ Here are some ideas to get you started:
     <tr>
     </tr>
     <tr>
+        <td>Vulnerability Mangement</td>
+        <td>
+            <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjMSnd70bRAi6e5Jyr5lqleuJbNdE3AZqZA&s" width="100" height="40"/></a>
+            <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm67lJCwkpMLhR_iA3S_oXRLRTugZOdzX0lQ&s" width="100" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
         <td>CI/CD</td>
         <td>
           <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jenkins/jenkins-original.svg" width="40" height="40"/></a>
